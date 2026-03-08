@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.12a01200.css",
-    "main.js": "/static/js/main.d7303d47.js",
-    "index.html": "/index.html",
-    "main.12a01200.css.map": "/static/css/main.12a01200.css.map",
-    "main.d7303d47.js.map": "/static/js/main.d7303d47.js.map"
+    "main.css": "/yakiniku-hp/static/css/main.12a01200.css",
+    "main.js": "/yakiniku-hp/static/js/main.d7303d47.js",
+    "index.html": "/yakiniku-hp/index.html",
+    "main.12a01200.css.map": "/yakiniku-hp/static/css/main.12a01200.css.map",
+    "main.d7303d47.js.map": "/yakiniku-hp/static/js/main.d7303d47.js.map"
   },
   "entrypoints": [
     "static/css/main.12a01200.css",
